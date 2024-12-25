@@ -68,7 +68,7 @@ blackjack-web-game/
 ![Game Interface](https://github.com/nishnarudkar/Black-jack-game/blob/main/Game_interface.png)
 
 ### Results Screen
-![Results Screen](screenshot-results-screen.png)
+![Results Screen](https://github.com/nishnarudkar/Black-jack-game/blob/main/Result_screen.png)
 
 
 ---
